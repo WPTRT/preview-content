@@ -449,7 +449,7 @@
 		<link>http://localhost:8888/?attachment_id=316</link>
 		<pubDate>Thu, 27 Jun 2019 16:39:01 +0000</pubDate>
 		<dc:creator><![CDATA[themeadmin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/WPTRT/preview-content/master/images/sky-1.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/WPTRT/preview-content/master/images/sky.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -465,14 +465,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/WPTRT/preview-content/master/images/sky-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/WPTRT/preview-content/master/images/sky.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2019/07/sky-1.jpg]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2019/07/sky.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:720;s:6:"height";i:405;s:4:"file";s:15:"2019/07/sky-1.jpg";s:5:"sizes";a:2:{s:9:"thumbnail";a:4:{s:4:"file";s:15:"sky-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:15:"sky-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:720;s:6:"height";i:405;s:4:"file";s:15:"2019/07/sky.jpg";s:5:"sizes";a:2:{s:9:"thumbnail";a:4:{s:4:"file";s:15:"sky50x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:15:"sky-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
@@ -1323,8 +1323,8 @@ https://wordpress.org/about/privacy/
 <hr class="wp-block-separator"/>
 <!-- /wp:separator -->
 
-<!-- wp:cover {"url":"https://raw.githubusercontent.com/WPTRT/preview-content/master/images/sky-1.jpg","id":316,"focalPoint":{"x":0.5,"y":1}} -->
-<div class="wp-block-cover has-background-dim" style="background-image:url(https://raw.githubusercontent.com/WPTRT/preview-content/master/images/sky-1.jpg);background-position:50% 100%"><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"huge"} -->
+<!-- wp:cover {"url":"https://raw.githubusercontent.com/WPTRT/preview-content/master/images/sky.jpg","id":316,"focalPoint":{"x":0.5,"y":1}} -->
+<div class="wp-block-cover has-background-dim" style="background-image:url(https://raw.githubusercontent.com/WPTRT/preview-content/master/images/sky.jpg);background-position:50% 100%"><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"huge"} -->
 <p style="text-align:center" class="has-huge-font-size">Add text over images with cover blocks</p>
 <!-- /wp:paragraph --></div></div>
 <!-- /wp:cover -->
